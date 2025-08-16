@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: git@github.com:zilux/zilux.core.git 
+  - name: git@github.com:zilux/zilux.core.git#ansible_collections/zilux/core
     type: git
     # version: xxx
