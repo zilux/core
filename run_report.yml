@@ -2,7 +2,7 @@
 - name: Run check
   hosts: all
   become: true
-  connection: local
+  #connection: local
   gather_facts: false
   vars:
     email_to: zilux@example.com
