@@ -1,0 +1,5 @@
+---
+collections:
+  - name: git@github.com:zilux/zilux.core.git 
+    type: git
+    # version: xxx
