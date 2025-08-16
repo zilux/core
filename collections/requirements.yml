@@ -2,4 +2,6 @@
 collections:
   - name: git@github.com:zilux/zilux.core.git#ansible_collections/zilux/core
     type: git
+  - name: community.general    
+
     # version: xxx
